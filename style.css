@@ -33,7 +33,7 @@ html {
   font-weight: 300;
 }
 
-.siteHeader {
+.fadeImage.siteHeader {
   z-index: 3;
   font-family: 'Raleway', sans-serif;
   color: #dadada;
@@ -44,10 +44,6 @@ html {
   flex-direction: column;
   vertical-align: middle;
   height: 100%
-}
-
-.siteHeader.sorry.message {
-  padding-top: 1em;
 }
 
 
