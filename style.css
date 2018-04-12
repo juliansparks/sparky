@@ -5,7 +5,12 @@ body {
 }
 
 .picoverlay {
+  background-image: url("overpic.png");
   width: 100%;
   height: 100%;
+  background-size: contain;
+  position: absolute;
+  background-position: center;
+  background-repeat: no-repeat;
 
 }
