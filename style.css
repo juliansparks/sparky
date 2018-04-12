@@ -3,3 +3,9 @@ body {
   height: 100%;
   background-color: #181818;
 }
+
+.picoverlay {
+  width: 100%;
+  height: 100%;
+
+}
